@@ -11,16 +11,7 @@
 
 ![alt text](./Images/image-2.png)
 
-## Block Diagrams
-
-![alt text](./Images/image-3.png)
-
-
-![alt text](./Images/image-4.png)
-
-
-![alt text](./Images/image-5.png)
-
+## Block Diagram
 
 ![alt text](./Images/image-6.png)
 
